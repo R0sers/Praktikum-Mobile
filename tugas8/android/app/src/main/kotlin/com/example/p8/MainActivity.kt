@@ -1,4 +1,4 @@
-package com.example.tugas7
+package com.example.p8
 
 import io.flutter.embedding.android.FlutterActivity
 
